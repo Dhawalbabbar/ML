@@ -1,0 +1,12 @@
+1 both eye blink open-close-open q 81
+2 both eye left open  w 87
+3 both eye right open  e 69
+4 both eye left closed r 82
+5 both eye right closed t 84
+6 both eye shift down y  89
+7 both eye blink close-open-close u 85
+8 forehead squeeze i 73
+9 any a 65
+10 NO Artifect o 79
+
+
