@@ -1,8 +1,0 @@
-39 mind wonder   green 
-37 some meditation  blue
-40 sleepy   white
-38 good meditation   yellow
-32 peek experiences  red
-
-1 new mind wonder  black
-2 new sleepy   
